@@ -1,0 +1,56 @@
+{
+    "status": 1,
+    "data": {
+        "posts": [
+            {
+                "file_name": "https://raw.githubusercontent.com/AarYanLab/LyricalVideoStatus/master/Telugu/Bharata Nene Nu - Vachaadayyo Saami Ningi Sukkaltho.mp3",
+                "filesize": "0.4591064453125"
+            },
+            {
+                "file_name": "https://raw.githubusercontent.com/AarYanLab/LyricalVideoStatus/master/Telugu/Blockbuster - Silakaloori Sinthamani Na Perante Theliyanollu.mp3",
+                "filesize": "0.4591064453125"
+            },
+            {
+                "file_name": "https://raw.githubusercontent.com/AarYanLab/LyricalVideoStatus/master/Telugu/Chiniki Chiniki - Chiniki Chiniki Chilipigaalitadi Tagili Tagili Valapu Vaanajadi.mp3",
+                "filesize": "0.6885986328125"
+            },
+            {
+                "file_name": "https://raw.githubusercontent.com/AarYanLab/LyricalVideoStatus/master/Telugu/Jigelu Rani - Oo Muddu Petave Jigelu Rani Kannaina Kotava.mp3",
+                "filesize": "0.6885986328125"
+            },
+            {
+                "file_name": "https://raw.githubusercontent.com/AarYanLab/LyricalVideoStatus/master/Telugu/Kallu Moosi - Kallu Moosi Terichelope Gundeloke Cheravve.mp3",
+                "filesize": "0.6885986328125"
+            },
+            {
+                "file_name": "https://raw.githubusercontent.com/AarYanLab/LyricalVideoStatus/master/Telugu/Nuvvele Nuvvele - Nuvvele Nuvvele Na Pranam Nuvvele.mp3",
+                "filesize": "0.6885986328125"
+            },
+            {
+                "file_name": "https://raw.githubusercontent.com/AarYanLab/LyricalVideoStatus/master/Telugu/O Prema - O Prema O Prema Nileshthu Sundara.mp3",
+                "filesize": "0.6885986328125"
+            },
+            {
+                "file_name": "https://raw.githubusercontent.com/AarYanLab/LyricalVideoStatus/master/Telugu/Poosindi Poosindi - Istasakhi Na Chiluka Nee Paluke Bangaramga.mp3",
+                "filesize": "0.6885986328125"
+            },
+            {
+                "file_name": "https://raw.githubusercontent.com/AarYanLab/LyricalVideoStatus/master/Telugu/Prema Ane - Prema Ane Pareeksha Raasee Vechi Unnaa.mp3",
+                "filesize": "0.6885986328125"
+            },
+            {
+                "file_name": "https://raw.githubusercontent.com/AarYanLab/LyricalVideoStatus/master/Telugu/Ranga Ranga - Ranga Ranga Rangasthalana Rangu Poosukokunna.mp3",
+                "filesize": "0.6885986328125"
+            },
+            {
+                "file_name": "https://raw.githubusercontent.com/AarYanLab/LyricalVideoStatus/master/Telugu/Telusaa - Dham Dham Dham Dhadhan Dham Anandam.mp3",
+                "filesize": "0.6885986328125"
+            },
+            {
+                "file_name": "https://raw.githubusercontent.com/AarYanLab/LyricalVideoStatus/master/Telugu/Yentha Sakkagunnaave - Yeru Senaga Kosam Mattini Thavvithe Yekanga Thagilina.mp3",
+                "filesize": "0.4591064453125"
+            }
+        ]
+    },
+    "message": "sucsess"
+}
